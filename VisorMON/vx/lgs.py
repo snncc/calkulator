@@ -1,0 +1,5 @@
+print()
+print("Enter Login")
+login_l = input(">")
+print("Enter Password")
+login_p = input(">")
